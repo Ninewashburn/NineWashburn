@@ -1,7 +1,15 @@
-### Hi there 👋
+### Salutations ! Bienvenue ! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&size=15&duration=3000&color=327CFF&background=EFF13592&center=true&vCenter=true&multiline=true&lines=D%C3%A9veloppeur+front+et+back;Github+de+Meynadier+Renaud)](https://git.io/typing-svg)
 
-Je 
+📡 Je suis un jeune développeur web & web mobile ayant effectué une formation avec Human Booster.
+💻 Pendant cette formation j'ai travaillé sur un site d'e-commerce, son dashboard, et j’ai fait un stage avec Be-Ys Software sur un projet Angular appelé IAM-FRONT.
+
+📰 Je mettrai à jour mes dépôt git au fil du temps, à disposition le projet d'Human Booster : 
+- La Nimes'Alerie (site d'e-commerce Symfony)
+- Le tableau de bord de la Nimes'Alerie (projet Angular)
+
+⚡ Bonne visite à vous et bonne journée !
+
 
 
 <!--
