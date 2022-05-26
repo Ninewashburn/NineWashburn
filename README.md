@@ -9,6 +9,12 @@
 - La Nimes'Alerie (site d'e-commerce Symfony)
 - Le tableau de bord de la Nimes'Alerie (projet Angular)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Voici mon LinkedIn](https://www.linkedin.com/in/renaud-m-063/)
+&nbsp;
+
+ℹ️ Vous pouvez télécharger mon CV ici aussi :
+[Renaud Meynadier cv(photo).pdf](https://github.com/Ninewashburn/NineWashburn/files/8780451/Renaud.Meynadier.cv.photo.pdf) !
+
 ⚡ Bonne visite à vous et bonne journée !
 
 
