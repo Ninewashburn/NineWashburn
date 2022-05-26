@@ -1,7 +1,12 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&size=15&duration=3000&color=327CFF&background=EFF13592&center=true&vCenter=true&multiline=true&lines=D%C3%A9veloppeur+front+et+back;Github+de+Meynadier+Renaud)](https://git.io/typing-svg)
+
+Je 
+
 
 <!--
 **Ninewashburn/NineWashburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
