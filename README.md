@@ -1,4 +1,4 @@
-### Welcome ! Bienvenue ! 🍌
+###🍌 Welcome ! Bienvenue ! 🚀
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&size=15&duration=3000&color=327CFF&background=EFF13592&center=true&vCenter=true&multiline=true&lines=D%C3%A9veloppeur+front+et+back;Github+de+Meynadier+Renaud)](https://git.io/typing-svg)
 
 📡 Je suis un jeune développeur web & web mobile ayant effectué une formation avec Human Booster.
