@@ -11,9 +11,11 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Voici mon LinkedIn](https://www.linkedin.com/in/renaud-m-063/) 
 &nbsp;
-⚠️ (Utilisez ctrl + clic pour l'ouvrir dans un nouvel onglet.) ⚠️
 
 Mon site de présentation : https://meynadier-renaud.000webhostapp.com
+
+⚠️ (Pensez à bien utiliser ctrl + clic pour ouvrir les pages dans un nouvel onglet.) ⚠️
+
 
 ℹ️ Vous pouvez télécharger mon CV ici aussi :
 [Renaud Meynadier cv(photo).pdf](https://github.com/Ninewashburn/NineWashburn/files/8883765/Renaud.Meynadier.cv.photo.pdf) !
