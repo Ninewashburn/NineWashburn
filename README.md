@@ -18,6 +18,14 @@ Mon site de présentation : https://meynadier-renaud.000webhostapp.com
 ℹ️ Vous pouvez télécharger mon CV ici aussi :
 [Renaud Meynadier cv(photo).pdf](https://github.com/Ninewashburn/NineWashburn/files/8883765/Renaud.Meynadier.cv.photo.pdf) !
 
+👁️ Quelques informations sur l'alternance :
+
+[Human Booster - Programme de formation - Developpeur fullstack JAVA.pdf](https://github.com/Ninewashburn/NineWashburn/files/8920849/Human.Booster.-.Programme.de.formation.-.Developpeur.fullstack.JAVA.pdf)
+
+[Human Booster -Plaquette_BACKPACK_entreprises.pdf](https://github.com/Ninewashburn/NineWashburn/files/8920856/Human.Booster.-Plaquette_BACKPACK_entreprises.pdf)
+
+
+
 ⚡ Bonne visite à vous et bonne journée !
 
 
