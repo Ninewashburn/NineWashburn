@@ -8,6 +8,9 @@
 📰 Je mettrai à jour mes dépôt git au fil du temps, à disposition le projet d'Human Booster : 
 - La Nimes'Alerie (site d'e-commerce Symfony)
 - Le tableau de bord de la Nimes'Alerie (projet Angular)
+- Deux portfolio, dont un en ligne (lien ci-dessous)
+- Exercice API / Régions Angular
+- Exercices Human Booster / Angular
 
 Mon site de présentation : https://www.meynadier-renaud.website
 
