@@ -13,8 +13,6 @@
 - Exercices Human Booster / Angular
 - Application Parking / Angular - Spring Boot
 
-Mon site de présentation : https://www.meynadier-renaud.website
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Voici mon LinkedIn](https://www.linkedin.com/in/renaud-m-063/) 
 &nbsp; ⚠️ (Pensez à bien utiliser ctrl + clic pour ouvrir les pages dans un nouvel onglet.) ⚠️
 
