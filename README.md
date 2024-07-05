@@ -3,7 +3,7 @@
 
 📡 Je suis un concepteur d'applications ayant effectué une formation de développeur web & web mobile Bac +2 ainsi qu'une formation en alternance Bac +3/4 avec Human Booster.
 
-💻 Pendant cette première formation j'ai travaillé sur un site d'e-commerce, son dashboard, et j’ai fait un stage avec Be-Ys Software sur un projet Angular appelé IAM-FRONT.
+💻 Pendant cette première formation j'ai travaillé sur un site d'e-commerce, son dashboard, et j’ai fait un stage avec Be-Ys Software sur un projet Angular appelé IAM-FRONT.  
 ⏭️ Ensuite en Alternance j'ai travaillé pour SYXPERIANE en tant que développeur, consultant ERP CEGID, intégrateur de données, et concepteur développeur d'applications Human Booster pour valider les modules du titre.
 
 📰 Je mettrai à jour mes dépôt git au fil du temps : 
