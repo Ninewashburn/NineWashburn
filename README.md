@@ -8,6 +8,7 @@
 
 📰 Je mettrai à jour mes dépôt git au fil du temps : 
 
+- La refonte de l'institut "Les Beautés d'Hathor" en Next.JS
 - Un institut de beauté pour une cliente "Les Beautés d'Hathor", uploadé pendant une année sur OVH avec mise à jour, maintenance fournie (site web professionnel, html, css, javascript, bootstrap, php)
 - L'application Bagni Plage (application Java / Sring Boot / Angular / Api web services)
 - La Nimes'Alerie (site d'e-commerce Symfony)
@@ -20,11 +21,6 @@
 [![LinkedIn](https://github.com/Ninewashburn/NineWashburn/assets/79519650/2c4139c7-61a1-4e2a-9dfa-5bf42e5fd44d)](https://www.linkedin.com/in/renaud-m-063/) [Voici mon LinkedIn](https://www.linkedin.com/in/renaud-m-063/)
 
 ⚠️ (Pensez à bien utiliser ctrl + clic pour ouvrir les pages dans un nouvel onglet.) ⚠️
-
-
-ℹ️ Vous pouvez télécharger mon CV ici aussi :
-[Renaud Meynadier cv.pdf](https://github.com/user-attachments/files/16113596/Renaud.Meynadier.cv.pdf) !
-
 
 ⚡ Bonne visite à vous et bonne journée !
 
