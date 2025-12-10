@@ -10,7 +10,7 @@ Passionné par les projets techniques à fort impact métier, j'accompagne la tr
 
 ## 🚀 Actuellement
 
-🔹 **En recherche active** de nouvelles opportunités (disponible à partir de fin novembre 2025)  
+🔹 **En recherche active** de nouvelles opportunités  
 🔹 Développement de projets web personnels et freelance  
 🔹 Spécialisation : Modernisation d'applications (Laravel/Angular), optimisation performances, refonte architecture
 
