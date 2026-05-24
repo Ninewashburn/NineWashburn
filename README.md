@@ -1,6 +1,6 @@
 # Ninewashburn · Full Stack Lab
 
-Développement full stack orienté applications métier, API REST, refonte d’existant et projets portfolio.
+Développement full stack orienté applications métier, API REST, refonte d’existant et démonstrateurs techniques.
 
 ## Stack principale
 
@@ -37,4 +37,4 @@ Portfolio complet : https://ninewashburn.github.io/
 
 ## Contact
 
-LinkedIn : https://www.linkedin.com/in/renaud-m-063  
+LinkedIn : https://www.linkedin.com/in/renaud-m-063
