@@ -31,10 +31,7 @@ Stack : Angular · Symfony · API Platform
 Application de gestion d’incidents avec rôles, tableaux de bord et traçabilité.  
 Stack : Laravel · Angular · PostgreSQL
 
-## Portfolio
+## Liens utiles
 
-Portfolio complet : https://ninewashburn.github.io/
-
-## Contact
-
+Portfolio : https://ninewashburn.github.io/  
 LinkedIn : https://www.linkedin.com/in/renaud-m-063
